@@ -49,6 +49,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/RodrigoPita/RodrigoPita/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/RodrigoPita/RodrigoPita/output/github-contribution-grid-snake.svg"/>
 
 ###
