@@ -49,6 +49,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/RodrigoPita/RodrigoPita/output/github-contribution-grid-snake.svg"/>
+<img href="https://raw.githubusercontent.com/RodrigoPita/RodrigoPita/output/snake.svg"/>
 
 ###
