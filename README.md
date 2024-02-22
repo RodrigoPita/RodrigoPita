@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👍 My pronouns are he/him;<br>🤓 I've studied Machine Learning for a year and a half and worked on a project to generate music sheet with a Generative Adversarial Network (GAN);<br>🐍 My first programming project was to make the Snake game on python;<br>🎹 Fun fact: I'm also a musician and because of that I try to add music to everything I do;</p>
+<p align="left">👍 My pronouns are he/him;<br>🤓 I've studied Machine Learning for a year and a half and worked on a project to generate sheet music with a Generative Adversarial Network (GAN);<br>🐍 My first programming project was to make the Snake game on python;<br>🎹 Fun fact: I'm also a musician and because of that I try to add music to everything I do;</p>
 
 ###
 
